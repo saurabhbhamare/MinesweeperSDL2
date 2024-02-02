@@ -1,0 +1,3 @@
+﻿  main2.cpp
+C:\Users\messi\source\repos\MINESWEEPER SDL2\MINESWEEPER SDL2\minesweeper\SourceFIles\main2.cpp(186,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MINESWEEPER SDL2.vcxproj -> C:\Users\messi\source\repos\MINESWEEPER SDL2\x64\Debug\MINESWEEPER SDL2.exe
